@@ -1,3 +1,13 @@
+# Watney project
+This project has been created to allow a web browser to control a step motor attached to a Raspberry Pi. 
+
+It uses the WebSocket project below to setup the connection between browser and R-Pi. 
+
+It then uses 2 arrays in watney.py to control the step motor.
+
+In its current configuration, the step motor is controlling a rotating platform.
+
+
 # Raspberry Pi WebSocket
 WebSocket enables bidirectional communication in real time over the web.
 
